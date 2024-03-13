@@ -34,6 +34,8 @@ Before Optimized:
 After Optimized:
 ![Screenshot 2024-03-13 at 10.47.12.png](screenshot%2FAfter%20Refactor%2FScreenshot%202024-03-13%20at%2010.47.12.png)
 
+Dapat dilihat bahwa setelah di optimized, status warning berbuah menjadi Success
+
 <h2>Endpoint /all-student-name </h2>
 
 Jmeter Result:
@@ -45,6 +47,8 @@ Before Optimized:
 After Optimized:
 ![Screenshot 2024-03-13 at 10.48.24.png](screenshot%2FAfter%20Refactor%2FScreenshot%202024-03-13%20at%2010.48.24.png)
 
+Dapat dilihat bahwa setelah di optimized, status warning berbuah menjadi Success
+
 <h2>Endpoint /highest-gpa </h2>
 
 Jmeter Result:
@@ -55,4 +59,6 @@ Before Optimized:
 
 After Optimized:
 ![Screenshot 2024-03-13 at 10.47.56.png](screenshot%2FAfter%20Refactor%2FScreenshot%202024-03-13%20at%2010.47.56.png)
+
+Dapat dilihat bahwa setelah di optimized, status warning berbuah menjadi Success
 
