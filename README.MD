@@ -60,5 +60,5 @@ Before Optimized:
 After Optimized:
 ![Screenshot 2024-03-13 at 10.47.56.png](screenshot%2FAfter%20Refactor%2FScreenshot%202024-03-13%20at%2010.47.56.png)
 
-Dapat dilihat bahwa setelah di optimized, status warning berbuah menjadi Success
+Dapat dilihat bahwa setelah di optimized, Eksekusi menjadi lebih cepat.
 
